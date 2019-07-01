@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/a8f1d8120c58ed4614dcb6b216c07b95/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/7b8677de4521ffaf57082db2f7ab2ee5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/fbc088726e702b341967f9d521494273/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/d634f19f18f9cc95d0e9630625101cf5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/fedd2323fbad2699e7650178463201d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/a4a151eae7c227f3a5eae37b66739d36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/8f1bdfab38ab226bab87c68e44f89c1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/ab30e12e44d0c364dc897606190f87d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/26760c108b11bfda5a804b444de2dafb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/76acee74b40feb46dcfb36179137debc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/f0447498115d15d1d841b0d3b7516a85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/a1fc707a27bbef1b764eb8cdf9cc1df9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/7bc0872b2609c8d1fcb912f19aa7040b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/cebf193dd4f052ff15c80ba4b8e82d87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/1fd47f67d5c08b05b4f4bcbbb0c9bfa7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/3321cb65b341b1364aa494db4c6c1614/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/7520b82ceda32eabfde221b7cd8b6f4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/80a1fa566449ae6bec2ceaaeb2a73ed0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/dd08e633c51252704ef5a4956b523929/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/b9e5fa88bdd507d35510138303d754ff/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/e1299f5f9893830b8b22f271ab30444d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/73f60cc73c855242f5d959a7ca7650c2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/3c39aab6f6d03d5553ea2c3c23954af7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/05905d94200d2ce1a5fe7ac983319cb9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/28413ed602f3495d9615f490480a91a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/6a5540aae2451fd2bc34e76775083728/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/b92e21dc45eb633d1c07076f57d18fe3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/213661a7cdd76b17fae0da5c00a20511/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/708d786a8d4761ef60e76f926d241097/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/155980353261ceb0cc6d03d94b4e0bff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/6a9bd910ab65e91c0d246e80d9aaeec6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/8f6e59866bf887826060b60eb469def7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/367c6423f65d7639818dc79f10d4a581/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:10:5-37:19
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/d634f19f18f9cc95d0e9630625101cf5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/d634f19f18f9cc95d0e9630625101cf5/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/b9e5fa88bdd507d35510138303d754ff/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/b9e5fa88bdd507d35510138303d754ff/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/e1299f5f9893830b8b22f271ab30444d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/e1299f5f9893830b8b22f271ab30444d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/b9e5fa88bdd507d35510138303d754ff/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.codepath.apps.restclienttemplate.LoginActivity
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:17:9-36:20
+	android:label
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:18:13-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:24:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:26:13-35:29
+action#android.intent.action.VIEW
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:30:17-78
+	android:name
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:30:27-75
+data
+ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:32:17-34:62
+	android:host
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:33:21-55
+	android:scheme
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml:34:21-59
+uses-sdk
+INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/a8f1d8120c58ed4614dcb6b216c07b95/AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/a8f1d8120c58ed4614dcb6b216c07b95/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/7b8677de4521ffaf57082db2f7ab2ee5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/7b8677de4521ffaf57082db2f7ab2ee5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/fbc088726e702b341967f9d521494273/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/fbc088726e702b341967f9d521494273/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/d634f19f18f9cc95d0e9630625101cf5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/d634f19f18f9cc95d0e9630625101cf5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/fedd2323fbad2699e7650178463201d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/fedd2323fbad2699e7650178463201d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/a4a151eae7c227f3a5eae37b66739d36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/a4a151eae7c227f3a5eae37b66739d36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/8f1bdfab38ab226bab87c68e44f89c1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/8f1bdfab38ab226bab87c68e44f89c1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/ab30e12e44d0c364dc897606190f87d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/ab30e12e44d0c364dc897606190f87d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/26760c108b11bfda5a804b444de2dafb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/26760c108b11bfda5a804b444de2dafb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/76acee74b40feb46dcfb36179137debc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/76acee74b40feb46dcfb36179137debc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/f0447498115d15d1d841b0d3b7516a85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/f0447498115d15d1d841b0d3b7516a85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/a1fc707a27bbef1b764eb8cdf9cc1df9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/a1fc707a27bbef1b764eb8cdf9cc1df9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/7bc0872b2609c8d1fcb912f19aa7040b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/7bc0872b2609c8d1fcb912f19aa7040b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/cebf193dd4f052ff15c80ba4b8e82d87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/cebf193dd4f052ff15c80ba4b8e82d87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/1fd47f67d5c08b05b4f4bcbbb0c9bfa7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/1fd47f67d5c08b05b4f4bcbbb0c9bfa7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/3321cb65b341b1364aa494db4c6c1614/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/3321cb65b341b1364aa494db4c6c1614/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/7520b82ceda32eabfde221b7cd8b6f4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/7520b82ceda32eabfde221b7cd8b6f4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/80a1fa566449ae6bec2ceaaeb2a73ed0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/80a1fa566449ae6bec2ceaaeb2a73ed0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/dd08e633c51252704ef5a4956b523929/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/dd08e633c51252704ef5a4956b523929/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/b9e5fa88bdd507d35510138303d754ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/b9e5fa88bdd507d35510138303d754ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/e1299f5f9893830b8b22f271ab30444d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/e1299f5f9893830b8b22f271ab30444d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/73f60cc73c855242f5d959a7ca7650c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/73f60cc73c855242f5d959a7ca7650c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/3c39aab6f6d03d5553ea2c3c23954af7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/3c39aab6f6d03d5553ea2c3c23954af7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/05905d94200d2ce1a5fe7ac983319cb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/05905d94200d2ce1a5fe7ac983319cb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/28413ed602f3495d9615f490480a91a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/28413ed602f3495d9615f490480a91a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/6a5540aae2451fd2bc34e76775083728/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/6a5540aae2451fd2bc34e76775083728/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/b92e21dc45eb633d1c07076f57d18fe3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/b92e21dc45eb633d1c07076f57d18fe3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/213661a7cdd76b17fae0da5c00a20511/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/213661a7cdd76b17fae0da5c00a20511/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/708d786a8d4761ef60e76f926d241097/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/708d786a8d4761ef60e76f926d241097/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/155980353261ceb0cc6d03d94b4e0bff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/155980353261ceb0cc6d03d94b4e0bff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/6a9bd910ab65e91c0d246e80d9aaeec6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/6a9bd910ab65e91c0d246e80d9aaeec6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/8f6e59866bf887826060b60eb469def7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/8f6e59866bf887826060b60eb469def7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/367c6423f65d7639818dc79f10d4a581/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bemedel/.gradle/caches/transforms-2/files-2.1/367c6423f65d7639818dc79f10d4a581/AndroidManifest.xml:20:5-44
+INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bemedel/Desktop/Twitter/codepath-twitter/app/src/main/AndroidManifest.xml
