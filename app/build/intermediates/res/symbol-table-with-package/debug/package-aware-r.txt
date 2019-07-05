@@ -770,7 +770,10 @@ id info
 id invisible
 id italic
 id item_touch_helper_previous_elevation
+id ivHeart
+id ivMessage
 id ivProfileImage
+id ivRetweet
 id left
 id line1
 id line3
