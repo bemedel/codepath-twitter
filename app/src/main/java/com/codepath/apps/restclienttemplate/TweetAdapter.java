@@ -54,6 +54,14 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder> 
         Glide.with(context)
                 .load(tweet.user.profileImageUrl)
                 .into(viewHolder.ivProfileImage);
+
+        if(tweet.hasEntities==true) {
+            String entityUrl=tweet.entity.loadURL;
+            viewHolder.ivEntityTweet.setVisibility(View.VISIBLE);
+            Glide.with(context).load(entityUrl).into(viewHolder.ivEntityTweet);
+        } else {
+            viewHolder.ivEntityTweet.setVisibility(View.GONE);
+        }
     }
 
     @Override
@@ -87,6 +95,7 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder> 
         public TextView tvUsername;
         public TextView tvBody;
         public TextView tvTimePosted;
+        public ImageView ivEntityTweet;
 
         public ViewHolder(View itemView) {
             super(itemView);
@@ -96,6 +105,7 @@ public class TweetAdapter extends RecyclerView.Adapter<TweetAdapter.ViewHolder> 
             tvUsername = (TextView) itemView.findViewById(R.id.tvUserName);
             tvBody = (TextView) itemView.findViewById(R.id.tvBody);
             tvTimePosted = (TextView) itemView.findViewById(R.id.tvTimePosted);
+            ivEntityTweet=(ImageView) itemView.findViewById(R.id.ivEntityTweet);
 
 
         }

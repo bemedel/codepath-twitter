@@ -766,10 +766,12 @@ id icon
 id icon_group
 id ifRoom
 id image
+id imageView6
 id info
 id invisible
 id italic
 id item_touch_helper_previous_elevation
+id ivEntityTweet
 id ivHeart
 id ivMessage
 id ivProfileImage
